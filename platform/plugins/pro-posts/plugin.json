@@ -1,0 +1,9 @@
+{
+    "name": "Pro Posts",
+    "namespace": "TheSky\\ProPosts\\",
+    "provider": "TheSky\\ProPosts\\Providers\\ProPostsServiceProvider",
+    "author": "The Sky",
+    "url": "https://thesky9.com",
+    "version": "1.0",
+    "description": "Allow user can like and bookmark posts"
+}

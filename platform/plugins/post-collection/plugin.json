@@ -1,0 +1,9 @@
+{
+    "name": "Posts Collection",
+    "namespace": "Botble\\PostCollection\\",
+    "provider": "Botble\\PostCollection\\Providers\\PostCollectionServiceProvider",
+    "author": "The Sky",
+    "url": "https://thesky9.com",
+    "version": "1.0",
+    "description": "The description for module post collection"
+}
